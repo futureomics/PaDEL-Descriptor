@@ -1,6 +1,8 @@
 # PaDEL-Descriptor
 PaDELPy is a Python wrapper for the Java-based PaDEL-Descriptor software, streamlining molecular descriptor calculations
+
 With PaDELPy, you can easily compute molecular fingerprints, avoiding the complexity of Java setup and reducing the time required for implementation.
+
 PaDEL-Descriptor molecular descriptor calculation software, allowing efficient generation of molecular fingerprints for machine learning-based quantitative structure-activity relationship (QSAR) models in drug discovery.
 
 Follow like, share, and subscribe https://www.youtube.com/@Bioinformatics_Made_Easy
